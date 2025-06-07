@@ -1,1 +1,1 @@
-"# Sistema de alquiler de pel¡culas" 
+"# Sistema de alquiler de peliculas" 
