@@ -1,0 +1,41 @@
+
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/timing.properties
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# VS Code
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs y temporales
+*.log
+*.tmp
+
+# Archivos de sistema
+*.swp
+*.bak
+
+# Archivos de entorno
+.env
+
+# Archivos de prueba o base de datos local
+*.h2.db
+*.mv.db
+*.der
+*.db
