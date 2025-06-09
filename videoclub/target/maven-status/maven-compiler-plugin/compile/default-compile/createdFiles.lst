@@ -1,0 +1,15 @@
+com\empresa\videoclub\service\PeliculaService.class
+com\empresa\videoclub\repository\AlquilerRepository.class
+com\empresa\videoclub\model\Pelicula.class
+com\empresa\videoclub\repository\DetalleAlquilerRepository.class
+com\empresa\videoclub\util\JPAUtil.class
+com\empresa\videoclub\App.class
+com\empresa\videoclub\model\DetalleAlquiler.class
+com\empresa\videoclub\repository\PeliculaRepository.class
+com\empresa\videoclub\model\Cliente.class
+com\empresa\videoclub\enums\EstadoAlquiler.class
+com\empresa\videoclub\repository\ClienteRepository.class
+com\empresa\videoclub\Servlets\AlquilerServlet.class
+com\empresa\videoclub\model\Alquiler.class
+com\empresa\videoclub\model\DetalleAlquilerID.class
+com\empresa\videoclub\service\AlquilerService.class

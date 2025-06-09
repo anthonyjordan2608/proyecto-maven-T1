@@ -1,0 +1,15 @@
+c:\Users\TonyStark\proyecto-maven\t1\videoclub\src\main\java\com\empresa\videoclub\App.java
+c:\Users\TonyStark\proyecto-maven\t1\videoclub\src\main\java\com\empresa\videoclub\enums\EstadoAlquiler.java
+c:\Users\TonyStark\proyecto-maven\t1\videoclub\src\main\java\com\empresa\videoclub\model\Alquiler.java
+c:\Users\TonyStark\proyecto-maven\t1\videoclub\src\main\java\com\empresa\videoclub\model\Cliente.java
+c:\Users\TonyStark\proyecto-maven\t1\videoclub\src\main\java\com\empresa\videoclub\model\DetalleAlquiler.java
+c:\Users\TonyStark\proyecto-maven\t1\videoclub\src\main\java\com\empresa\videoclub\model\DetalleAlquilerID.java
+c:\Users\TonyStark\proyecto-maven\t1\videoclub\src\main\java\com\empresa\videoclub\model\Pelicula.java
+c:\Users\TonyStark\proyecto-maven\t1\videoclub\src\main\java\com\empresa\videoclub\repository\AlquilerRepository.java
+c:\Users\TonyStark\proyecto-maven\t1\videoclub\src\main\java\com\empresa\videoclub\repository\ClienteRepository.java
+c:\Users\TonyStark\proyecto-maven\t1\videoclub\src\main\java\com\empresa\videoclub\repository\DetalleAlquilerRepository.java
+c:\Users\TonyStark\proyecto-maven\t1\videoclub\src\main\java\com\empresa\videoclub\repository\PeliculaRepository.java
+c:\Users\TonyStark\proyecto-maven\t1\videoclub\src\main\java\com\empresa\videoclub\service\AlquilerService.java
+c:\Users\TonyStark\proyecto-maven\t1\videoclub\src\main\java\com\empresa\videoclub\service\PeliculaService.java
+c:\Users\TonyStark\proyecto-maven\t1\videoclub\src\main\java\com\empresa\videoclub\Servlets\AlquilerServlet.java
+c:\Users\TonyStark\proyecto-maven\t1\videoclub\src\main\java\com\empresa\videoclub\util\JPAUtil.java
